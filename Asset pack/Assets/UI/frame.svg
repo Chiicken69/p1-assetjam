@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lag_2" data-name="Lag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 189 189">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d19c64;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #b98848;
+      }
+    </style>
+  </defs>
+  <g id="Lag_1-2" data-name="Lag 1">
+    <g>
+      <circle class="cls-2" cx="94.5" cy="94.5" r="94.5"/>
+      <circle class="cls-1" cx="95" cy="95" r="70"/>
+    </g>
+  </g>
+</svg>
